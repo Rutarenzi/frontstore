@@ -4,6 +4,10 @@
 ## General info
 This is the backend for book store
 
+##The Figma design
+
+[here]([https://cloudinary.com/users/register_free](https://www.figma.com/file/JhfStmw8GEMuBuSGRjKBOq/Bookstore?type=design&node-id=1-3&mode=design))
+
 # features 
 ```
   =>Login/Signup
